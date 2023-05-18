@@ -122,6 +122,7 @@ https://github.com/psmedinadi22/Robotica-LAB5/assets/64180738/e94372e6-a3cf-46e5
 
 - Laboratorio 5 - Cinemática Inversa - Robot Phantom X - ROS
 - [https://github.com/fegonzalez7/rob_unal_clase4](https://github.com/fegonzalez7/inv_kinematics)
+- https://github.com/fegonzalez7/inv_kinematics 
 - Apuntes de clase, Robótica 2023-1
 
 ---
