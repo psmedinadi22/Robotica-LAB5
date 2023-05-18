@@ -91,21 +91,24 @@ python3 CP_Lab5.py
 ```
 
 Una vez ejecutado el comando see desplegará el siguiente menú:
-<p align="center"><img height=80 src="./Imagenes/Eject.jpg" alt="Access to I/O system" /></p>
+<p align="center"><img height=300 src="./Imagenes/Eject.jpg" alt="Access to I/O system" /></p>
 
 
 ---
 # Resultados
 
 El brazo se desplaza a la base porta herramienta, sujeta el marcador y se ubica en una posición de espera.
+
 https://github.com/psmedinadi22/Robotica-LAB5/assets/64180738/6b4379c3-754f-4e4a-9cde-18a29e316164
 
 
-El brazo dibuja dos arcos que representan los limites de espacio de trabajo diestro plano sobre la superficie y regresa a una posici´on de espera.
+El brazo dibuja dos arcos que representan los limites de espacio de trabajo diestro plano sobre la superficie y regresa a una posición de espera.
+
 https://github.com/psmedinadi22/Robotica-LAB5/assets/64180738/e94372e6-a3cf-46e5-8cd1-77856d16c7cc
 
 
-El brazo dibuja al menos dos letras, iniciales de los nombres de los estudiantes, sobre la superficie y retorna a una posici´on de espera.
+El brazo dibuja al menos dos letras, iniciales de los nombres de los estudiantes, sobre la superficie y retorna a una posición de espera.
+
 https://github.com/psmedinadi22/Robotica-LAB5/assets/64180738/e406be8a-12ec-4359-848a-ee97dc82da62
 
 
