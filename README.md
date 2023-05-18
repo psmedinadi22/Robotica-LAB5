@@ -24,6 +24,7 @@ Con la articulacion 2 se plantea sus soluciones en función de las coordenadas y
 Como se requiere que el herramienta sea perpendicular al plano de trabajo, para la articulacion 4 se tiene que:
 <p align="center"><img height=35 src="./Imagenes/q4.PNG" alt="Access to I/O system" /></p>
 
+Para la obtencion de las rutinas solicitadas se elaboro un boceto en fusion 360. Con este boceto se obtuvieron las coordenadas X y Y que conforman las trayectorias de la mayoria de las rutinas, pues para el circulo se utilizo un despeje algebraico y se tomaron puntos cada 5°.
 
 Con las formulas obtenidas en la seccion de cinemtica inversa y las coordenadas de los puntos que se requieren para cada trayectoria se construye un excel para determinar el valor de cada articulación como se muestra en la siguiente imagen.
 <p align="center"><img height=300 src="./Imagenes/Excel.jpeg" alt="Access to I/O system" /></p>
@@ -86,8 +87,9 @@ Para la ejecución del codigó es necesario clonar el repositorio de Felipe Gonz
 roslaunch dynamixel_one_motor one_controller.launch
 ```
 
+En una nueva terminal:
 ```
-python3 CP_Lab5.py
+python3 Lab5.py
 ```
 
 Una vez ejecutado el comando see desplegará el siguiente menú:
@@ -107,11 +109,6 @@ El brazo dibuja dos arcos que representan los limites de espacio de trabajo dies
 https://github.com/psmedinadi22/Robotica-LAB5/assets/64180738/e94372e6-a3cf-46e5-8cd1-77856d16c7cc
 
 
-El brazo dibuja al menos dos letras, iniciales de los nombres de los estudiantes, sobre la superficie y retorna a una posición de espera.
-
-https://github.com/psmedinadi22/Robotica-LAB5/assets/64180738/e406be8a-12ec-4359-848a-ee97dc82da62
-
-
 
 ---
 # Conclusiones
@@ -123,8 +120,8 @@ https://github.com/psmedinadi22/Robotica-LAB5/assets/64180738/e406be8a-12ec-4359
 ---
 # Referencias
 
-- Laboratorio 4 - Cinemática Directa - Phantom X - ROS UNAL.
-- https://github.com/fegonzalez7/rob_unal_clase4
+- Laboratorio 5 - Cinemática Inversa - Robot Phantom X - ROS
+- [https://github.com/fegonzalez7/rob_unal_clase4](https://github.com/fegonzalez7/inv_kinematics)
 - Apuntes de clase, Robótica 2023-1
 
 ---
